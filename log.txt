@@ -1,31 +1,32 @@
-2025-07-11 18:13:41 UTC
+2025-07-11 18:56:11 UTC
 macOS-10.16-x86_64-i386-64bit
 Ren'Py 8.4.0.25070607
 
-Early init took 65 ms
-Loading error handling took 33 ms
-Loading script took 130 ms
-Loading save slot metadata took 34 ms
+Early init took 56 ms
+Loading error handling took 26 ms
+Loading script took 119 ms
+Loading save slot metadata took 27 ms
 Loading persistent took 0 ms
-Running init code took 54 ms
-Loading analysis data took 5 ms
+Running init code took 44 ms
+Loading analysis data took 4 ms
 Analyze and compile ATL took 1 ms
-Reloading save slot metadata took 13 ms
-Dump and make backups took 51 ms
+Reloading save slot metadata took 11 ms
+Backing up script files to '/Users/admi/Library/RenPy/backups/Girl from the dream':
+Dump and make backups took 48 ms
 Cleaning cache took 0 ms
 Making clean stores took 0 ms
-Initial gc took 43 ms
+Initial gc took 57 ms
 DPI scale factor: 1.000000
-Creating interface object took 0 ms
+Creating interface object took 1 ms
 Init translation took 0 ms
 Cleaning stores took 0 ms
-Load screen analysis took 23 ms
-Analyze screens took 1 ms
-Save screen analysis took 0 ms
+Load screen analysis took 1 ms
+Analyze screens took 12 ms
+Save screen analysis took 10 ms
 Save pyanalysis took 0 ms
 Save bytecode took 0 ms
 Running _start took 1 ms
-Interface start took 666 ms
+Interface start took 599 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1440, 900)

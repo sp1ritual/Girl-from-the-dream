@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/screens.rpy", line 438: 'delayed_fade' is not a keyword argument or valid child of the transform statement.
-    transform delayed_fade(delay):
-                          ^
+File "game/script.rpy", line 20: expected statement.
+    at transform:
+       ^
 
 Ren'Py Version: Ren'Py 8.4.0.25070607
-Thu Jul 10 21:55:24 2025
+Sat Jul 12 01:24:42 2025

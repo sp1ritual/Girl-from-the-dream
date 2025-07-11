@@ -1,9 +1,13 @@
-renpy.dissolve renpy.geometry
 renpy.ftl
-renpy.dissolve renpy.dissolve
-renpy.solid
 renpy.texture
-renpy.alpha renpy.texture
+renpy.solid
+renpy.texture textshader.wave renpy.texture textshader.wave
+renpy.geometry renpy.texture textshader.wave
 renpy.alpha renpy.geometry renpy.texture
+renpy.alpha renpy.texture
 renpy.geometry renpy.solid
+renpy.geometry renpy.texture textshader.dissolve
+renpy.dissolve renpy.geometry
+renpy.dissolve renpy.dissolve
+renpy.texture textshader.dissolve renpy.texture textshader.dissolve
 renpy.geometry renpy.texture
