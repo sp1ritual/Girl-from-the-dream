@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 20: expected statement.
-    at transform:
-       ^
+File "game/script.rpy", line 16: style statement expects a non-empty block.
+    style default:
+                  ^
 
 Ren'Py Version: Ren'Py 8.4.0.25070607
-Sat Jul 12 01:24:42 2025
+Sat Jul 12 12:49:05 2025
