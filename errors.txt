@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 16: style statement expects a non-empty block.
-    style default:
-                  ^
+File "game/script.rpy", line 62: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    return
+    ^
 
 Ren'Py Version: Ren'Py 8.4.0.25070607
-Sat Jul 12 12:49:05 2025
+Sun Jul 13 02:25:37 2025
