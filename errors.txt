@@ -2,9 +2,8 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 62: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
-    return
-    ^
+File "game/script.rpy", line 73: unterminated string literal
+    player_name """"
 
 Ren'Py Version: Ren'Py 8.4.0.25070607
-Sun Jul 13 02:25:37 2025
+Sat Jul 19 18:57:01 2025
